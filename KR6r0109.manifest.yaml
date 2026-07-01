@@ -1,0 +1,393 @@
+canonical_identifier: bkk:krp/KR6r0109/v1
+canonical_location: https://kanripo.org/bkk/KR6r0109/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 永明道蹟
+  identifiers:
+    alt_id:
+    - X86n1599
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X86/X86n1599.xml
+    old_id: X86n1599
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0109_000.yaml, hash: 'sha256:8f210b535e464e904cfbd4166a96922ab98ae72f13dafb5587231b1711c7cd0d'}
+  - {seq: 1, filename: KR6r0109_001.yaml, hash: 'sha256:3daccd8559d262021aeb9017cef360f04b1ffd040a00aade0baf3d83000e0fd2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0109_000.markers.yaml, hash: 'sha256:ee7864bc1131897c0def3b9a9f58bea0c05e662dde0c5d958257fc0cb934575b'}
+  - {seq: 1, role: markers, filename: assets/KR6r0109_001.markers.yaml, hash: 'sha256:ec414a966c43c90c986298eaa86ec481b19a1aff485ad58ac19718b349746cf2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0109_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1599-A 永明道蹟序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6272
+  label: 永明道蹟
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 永明道跡目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-2
+    span:
+    - body
+    - 360
+    - 360
+  label: 永明真像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-3
+    span:
+    - body
+    - 511
+    - 511
+  label: 感親息爭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-4
+    span:
+    - body
+    - 664
+    - 664
+  label: 群羊聽經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-5
+    span:
+    - body
+    - 801
+    - 801
+  label: 金門獻賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-6
+    span:
+    - body
+    - 903
+    - 903
+  label: 放生罹法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-7
+    span:
+    - body
+    - 1026
+    - 1026
+  label: 慷慨見宥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-8
+    span:
+    - body
+    - 1210
+    - 1210
+  label: 捨俗投師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-9
+    span:
+    - body
+    - 1385
+    - 1385
+  label: 斥鷃巢衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-10
+    span:
+    - body
+    - 1519
+    - 1519
+  label: 參依蒙讖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-11
+    span:
+    - body
+    - 1644
+    - 1644
+  label: 聖授蓮花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-12
+    span:
+    - body
+    - 1818
+    - 1818
+  label: 神人護懺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-13
+    span:
+    - body
+    - 1944
+    - 1944
+  label: 密承甘露
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-14
+    span:
+    - body
+    - 2051
+    - 2051
+  label: 雪竇示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-15
+    span:
+    - body
+    - 2214
+    - 2214
+  label: 中興靈隱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-16
+    span:
+    - body
+    - 2342
+    - 2342
+  label: 淨慈開山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-17
+    span:
+    - body
+    - 2508
+    - 2508
+  label: 永明升座
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-18
+    span:
+    - body
+    - 2706
+    - 2706
+  label: 華臺課經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-19
+    span:
+    - body
+    - 2832
+    - 2832
+  label: 別峰行道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-20
+    span:
+    - body
+    - 3012
+    - 3012
+  label: 營塔鎮湖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-21
+    span:
+    - body
+    - 3182
+    - 3182
+  label: 古佛互證
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-22
+    span:
+    - body
+    - 3327
+    - 3327
+  label: 高麗歸依
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-23
+    span:
+    - body
+    - 3487
+    - 3487
+  label: 天台說戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-24
+    span:
+    - body
+    - 3628
+    - 3628
+  label: 法食施鬼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-25
+    span:
+    - body
+    - 3782
+    - 3782
+  label: 勸念往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-26
+    span:
+    - body
+    - 3966
+    - 3966
+  label: 降伏神煞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-27
+    span:
+    - body
+    - 4162
+    - 4162
+  label: 演法雨花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-28
+    span:
+    - body
+    - 4299
+    - 4299
+  label: 預知時至
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-29
+    span:
+    - body
+    - 4445
+    - 4445
+  label: 茶毗遺瑞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-30
+    span:
+    - body
+    - 4631
+    - 4631
+  label: 閻君禮像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-31
+    span:
+    - body
+    - 4820
+    - 4820
+  label: 雉兒聽法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-32
+    span:
+    - body
+    - 5043
+    - 5043
+  label: 鋪張儒術
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-33
+    span:
+    - body
+    - 5351
+    - 5351
+  label: 權寄僊蹤
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0109_X_001-mulu-34
+    span:
+    - body
+    - 6045
+    - 6045
+  label: No. 1599-B
+  type: mulu
+  level: 1
+hash: sha256:0f0c9ae9fb26b76cbfb4f90fde45d29dc0ac96fe4d208378fa83a90d1e59d137
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
