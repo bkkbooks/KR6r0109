@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0109_000-X.yaml, hash: 'sha256:3fa27b412287b60d9973c94088a4872d967fe7e470c92c86ad603b33cded736a'}
+  - {seq: 0, filename: KR6r0109_000-X.yaml, hash: 'sha256:e8bc9459f0ed4a78764b693e1873342724532ceaa8668589734fe553408766a4'}
   - {seq: 1, filename: KR6r0109_001-X.yaml, hash: 'sha256:ff1141b29b120e4212fd6e15677e3365fa88f1fdfd12a2778135c3147cf8d809'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0109_000-X.markers.yaml, hash: 'sha256:9c64b116323ccd54f2e38991ba2eb7ed5e33b32627b87877781d80b0d35d2f1e'}
+  - {seq: 0, role: markers, filename: assets/KR6r0109_000-X.markers.yaml, hash: 'sha256:2cd245fba72ad868c79cbc7caa1d81984fa3e9cd4f17e3e7e9d7ea8617c114b1'}
   - {seq: 1, role: markers, filename: assets/KR6r0109_001-X.markers.yaml, hash: 'sha256:26924427afa583c741e501136590e65014e6b4762b73ec9f812f5483bfac8e30'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0109_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1599-A 永明道蹟序
@@ -385,4 +385,4 @@ table_of_contents:
   label: No. 1599-B
   type: mulu
   level: 1
-hash: sha256:e9d4d8921173a0a946006425ce396cc0f5f80b5c5da06c0dc649f36505ba0b02
+hash: sha256:0c84132e5d92bc1e5e1704ac4ad7d16faef4dea39c6623b0a9af88c61d4fc745
